@@ -1,0 +1,5 @@
+.vscode
+shader_files/spirv
+src/spirv
+zig-cache
+zig-out
